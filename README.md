@@ -22,4 +22,4 @@ Here are the data for the analysis:
 
 To run this analysis, copy the script `run_analysis.R` to your working directory and source the script. In addition to base `r`, it requires the `dplyr`, `stringr` and `reshape2` packages. The script will check whether the packages are installed and install them if necessary.
 
-This script will output a file named `meanDataTid.csv`.
+This script will output a file named `meanDataTidy.csv`.
